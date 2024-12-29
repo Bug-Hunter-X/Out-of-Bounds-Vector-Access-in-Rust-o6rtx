@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon error in Rust programming: handling out-of-bounds vector access. The `bug.rs` file demonstrates the error, while `bugSolution.rs` provides a solution using safe Rust techniques.
